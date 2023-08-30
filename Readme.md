@@ -1,7 +1,7 @@
 # Minimal WebApp with Spring Framework and Docker using API
 
 ## Description
-Il s'agit d'un projet conçu pour apprendre comment utiliser le Framework Spring et Docker.
+Il s'agit d'un projet conçu pour apprendre à utiliser le Framework Spring et Docker.
 C'est une WebApp simple qui utilise un autre projet Spring (une API).
 
 > L'API est disponible ici : [https://github.com/Hadouweb/ApiSpringDocker](https://github.com/Hadouweb/ApiSpringDocker).
